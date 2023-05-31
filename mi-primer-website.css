@@ -1,0 +1,6 @@
+.container-nav {
+    display: flex;
+    padding: 10px;
+    height: 150px;
+    background-color: black;
+  }
